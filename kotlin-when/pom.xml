@@ -7,15 +7,14 @@
   <artifactId>kotlin</artifactId>
   <version>0.0.1-SNAPSHOT</version>
  </parent>
- <groupId>com.ymmihw</groupId>
- <artifactId>kotlin-intro</artifactId>
+ <groupId>com.ymmihw.kotlin</groupId>
+ <artifactId>kotlin-when</artifactId>
  <version>0.0.1-SNAPSHOT</version>
- <name>kotlin-intro</name>
+ <name>kotlin-when</name>
  <url>http://maven.apache.org</url>
  <properties>
   <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
  </properties>
  <dependencies>
-
  </dependencies>
 </project>
