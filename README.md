@@ -6,3 +6,4 @@ kotlin-intro | [Introduction to the Kotlin Language](https://www.baeldung.com/ko
 kotlin-when | [Guide to the “when{}” Block in Kotlin](https://www.baeldung.com/kotlin-when)
 kotlin-null-safety | [Comprehensive Guide to Null Safety in Kotlin](https://www.baeldung.com/kotlin-null-safety)
 kotlin-generics | [Generics in Kotlin](https://www.baeldung.com/kotlin-generics)
+kotlin-java-interoperability | [Kotlin Java Interoperability](https://www.baeldung.com/kotlin-java-interoperability)
