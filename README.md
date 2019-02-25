@@ -13,3 +13,4 @@ kotlin-data-classes | [Data Classes in Kotlin](https://www.baeldung.com/kotlin-d
 kotlin-list-to-map | [Converting a List to Map in Kotlin](https://www.baeldung.com/kotlin-list-to-map)
 kotlin-collections-api | [Overview of Kotlin Collections API](https://www.baeldung.com/kotlin-collections-api)
 kotlin-lazy-initialization | [Lazy Initialization in Kotlin](https://www.baeldung.com/kotlin-lazy-initialization)
+kotlin-mockito | [Kotlin with Mockito](https://www.baeldung.com/kotlin-mockito)
