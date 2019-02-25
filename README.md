@@ -11,3 +11,4 @@ kotlin-equality | [Difference Between “==” and “===” operators in Kotlin
 kotlin-coroutines | [Introduction to Kotlin Coroutines](https://www.baeldung.com/kotlin-coroutines)
 kotlin-data-classes | [Data Classes in Kotlin](https://www.baeldung.com/kotlin-data-classes)
 kotlin-list-to-map | [Converting a List to Map in Kotlin](https://www.baeldung.com/kotlin-list-to-map)
+kotlin-collections-api | [Converting a List to Map in Kotlin](https://www.baeldung.com/kotlin-list-to-map)
