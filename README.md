@@ -16,3 +16,4 @@ kotlin-lazy-initialization | [Lazy Initialization in Kotlin](https://www.baeldun
 kotlin-mockito | [Kotlin with Mockito](https://www.baeldung.com/kotlin-mockito)
 kotlin-destructuring-declarations | [Destructuring Declarations in Kotlin](https://www.baeldung.com/kotlin-destructuring-declarations)
 kotlin-delegated-properties | [Delegated Properties in Kotlin](https://www.baeldung.com/kotlin-delegated-properties)
+kotlin-tail-recursion | [Kotlin and Tail Recursion](https://www.baeldung.com/kotlin-tail-recursion)
