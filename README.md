@@ -15,3 +15,4 @@ kotlin-collections-api | [Overview of Kotlin Collections API](https://www.baeldu
 kotlin-lazy-initialization | [Lazy Initialization in Kotlin](https://www.baeldung.com/kotlin-lazy-initialization)
 kotlin-mockito | [Kotlin with Mockito](https://www.baeldung.com/kotlin-mockito)
 kotlin-destructuring-declarations | [Destructuring Declarations in Kotlin](https://www.baeldung.com/kotlin-destructuring-declarations)
+kotlin-delegated-properties | [Delegated Properties in Kotlin](https://www.baeldung.com/kotlin-delegated-properties)
