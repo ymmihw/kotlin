@@ -14,3 +14,4 @@ kotlin-list-to-map | [Converting a List to Map in Kotlin](https://www.baeldung.c
 kotlin-collections-api | [Overview of Kotlin Collections API](https://www.baeldung.com/kotlin-collections-api)
 kotlin-lazy-initialization | [Lazy Initialization in Kotlin](https://www.baeldung.com/kotlin-lazy-initialization)
 kotlin-mockito | [Kotlin with Mockito](https://www.baeldung.com/kotlin-mockito)
+kotlin-destructuring-declarations | [Destructuring Declarations in Kotlin](https://www.baeldung.com/kotlin-destructuring-declarations)
