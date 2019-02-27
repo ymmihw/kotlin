@@ -18,3 +18,4 @@ kotlin-destructuring-declarations | [Destructuring Declarations in Kotlin](https
 kotlin-delegated-properties | [Delegated Properties in Kotlin](https://www.baeldung.com/kotlin-delegated-properties)
 kotlin-tail-recursion | [Kotlin and Tail Recursion](https://www.baeldung.com/kotlin-tail-recursion)
 kotlin-jvm-field-annotation | [Guide to Kotlin @JvmField](https://www.baeldung.com/kotlin-jvm-field-annotation) 
+kotlin-junit5 | [JUnit 5 for Kotlin Developers](https://www.baeldung.com/junit-5-kotlin)
