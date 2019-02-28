@@ -21,3 +21,4 @@ kotlin-jvm-field-annotation | [Guide to Kotlin @JvmField](https://www.baeldung.c
 kotlin-junit5 | [JUnit 5 for Kotlin Developers](https://www.baeldung.com/junit-5-kotlin)
 kotlin-extension-methods | [Extension Methods in Kotlin](https://www.baeldung.com/kotlin-extension-methods)
 kotlin-regular-expressions | [Regular Expressions in Kotlin](https://www.baeldung.com/kotlin-regular-expressions)
+kotlin-infix-functions |[Infix Functions in Kotlin](https://www.baeldung.com/kotlin-infix-functions)
