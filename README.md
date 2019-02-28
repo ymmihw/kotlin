@@ -20,3 +20,4 @@ kotlin-tail-recursion | [Kotlin and Tail Recursion](https://www.baeldung.com/kot
 kotlin-jvm-field-annotation | [Guide to Kotlin @JvmField](https://www.baeldung.com/kotlin-jvm-field-annotation) 
 kotlin-junit5 | [JUnit 5 for Kotlin Developers](https://www.baeldung.com/junit-5-kotlin)
 kotlin-extension-methods | [Extension Methods in Kotlin](https://www.baeldung.com/kotlin-extension-methods)
+kotlin-regular-expressions | [Regular Expressions in Kotlin](https://www.baeldung.com/kotlin-regular-expressions)
