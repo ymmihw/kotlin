@@ -24,3 +24,4 @@ kotlin-regular-expressions | [Regular Expressions in Kotlin](https://www.baeldun
 kotlin-infix-functions | [Infix Functions in Kotlin](https://www.baeldung.com/kotlin-infix-functions)
 kotlin-objects | [Objects in Kotlin](https://www.baeldung.com/kotlin-objects)
 kotlin-read-file | [Reading from a File in Kotlin](https://www.baeldung.com/kotlin-read-file)
+kotlin-write-file | [Writing to a File in Kotlin](https://www.baeldung.com/kotlin-write-file)
