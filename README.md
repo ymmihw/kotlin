@@ -27,3 +27,4 @@ kotlin-read-file | [Reading from a File in Kotlin](https://www.baeldung.com/kotl
 kotlin-write-file | [Writing to a File in Kotlin](https://www.baeldung.com/kotlin-write-file)
 kotlin-filter-collection | [Filtering Kotlin Collections](https://www.baeldung.com/kotlin-filter-collection)
 kotlin-lambda | [Lambda Expressions in Kotlin](https://www.baeldung.com/kotlin-lambda-expressions)
+kotlin-enum | [Working with Enums in Kotlin](https://www.baeldung.com/kotlin-enum)
