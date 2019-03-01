@@ -28,3 +28,4 @@ kotlin-write-file | [Writing to a File in Kotlin](https://www.baeldung.com/kotli
 kotlin-filter-collection | [Filtering Kotlin Collections](https://www.baeldung.com/kotlin-filter-collection)
 kotlin-lambda | [Lambda Expressions in Kotlin](https://www.baeldung.com/kotlin-lambda-expressions)
 kotlin-enum | [Working with Enums in Kotlin](https://www.baeldung.com/kotlin-enum)
+kotlin-string-template | [Kotlin String Templates](https://www.baeldung.com/kotlin-string-template)
