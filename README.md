@@ -29,3 +29,4 @@ kotlin-filter-collection | [Filtering Kotlin Collections](https://www.baeldung.c
 kotlin-lambda | [Lambda Expressions in Kotlin](https://www.baeldung.com/kotlin-lambda-expressions)
 kotlin-enum | [Working with Enums in Kotlin](https://www.baeldung.com/kotlin-enum)
 kotlin-string-template | [Kotlin String Templates](https://www.baeldung.com/kotlin-string-template)
+kotlin-reflection | [Reflection with Kotlin](https://www.baeldung.com/kotlin-reflection)
