@@ -25,3 +25,4 @@ kotlin-infix-functions | [Infix Functions in Kotlin](https://www.baeldung.com/ko
 kotlin-objects | [Objects in Kotlin](https://www.baeldung.com/kotlin-objects)
 kotlin-read-file | [Reading from a File in Kotlin](https://www.baeldung.com/kotlin-read-file)
 kotlin-write-file | [Writing to a File in Kotlin](https://www.baeldung.com/kotlin-write-file)
+kotlin-filter-collection | [Filtering Kotlin Collections](https://www.baeldung.com/kotlin-filter-collection)
