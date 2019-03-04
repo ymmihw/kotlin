@@ -32,3 +32,4 @@ kotlin-string-template | [Kotlin String Templates](https://www.baeldung.com/kotl
 kotlin-reflection | [Reflection with Kotlin](https://www.baeldung.com/kotlin-reflection)
 kotlin-logging | [Idiomatic Logging in Kotlin](https://www.baeldung.com/kotlin-logging)
 kotlin-random-number | [Get a Random Number in Kotlin](https://www.baeldung.com/kotlin-random-number)
+kotlin-constructors | [Kotlin Constructors](https://www.baeldung.com/kotlin-constructors)
