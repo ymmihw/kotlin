@@ -30,3 +30,4 @@ kotlin-lambda | [Lambda Expressions in Kotlin](https://www.baeldung.com/kotlin-l
 kotlin-enum | [Working with Enums in Kotlin](https://www.baeldung.com/kotlin-enum)
 kotlin-string-template | [Kotlin String Templates](https://www.baeldung.com/kotlin-string-template)
 kotlin-reflection | [Reflection with Kotlin](https://www.baeldung.com/kotlin-reflection)
+kotlin-logging | [Idiomatic Logging in Kotlin](https://www.baeldung.com/kotlin-logging)
