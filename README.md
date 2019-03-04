@@ -33,3 +33,4 @@ kotlin-reflection | [Reflection with Kotlin](https://www.baeldung.com/kotlin-ref
 kotlin-logging | [Idiomatic Logging in Kotlin](https://www.baeldung.com/kotlin-logging)
 kotlin-random-number | [Get a Random Number in Kotlin](https://www.baeldung.com/kotlin-random-number)
 kotlin-constructors | [Kotlin Constructors](https://www.baeldung.com/kotlin-constructors)
+kotlin-builder-pattern | [Creational Design Patterns in Kotlin: Builder](https://www.baeldung.com/kotlin-builder-pattern)
