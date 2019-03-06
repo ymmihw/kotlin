@@ -38,3 +38,4 @@ kotlin-builder-pattern | [Creational Design Patterns in Kotlin: Builder](https:/
 kotlin-inner-classes | [Kotlin Nested and Inner Classes](https://www.baeldung.com/kotlin-inner-classes)
 kotlin-return-break-continue | [Kotlin return, break, continue Keywords](https://www.baeldung.com/kotlin-return-break-continue)
 kotlin-interfaces | [Guide to Kotlin Interfaces](https://www.baeldung.com/kotlin-interfaces)
+kotlin-data-objects | [Mapping of Data Objects in Kotlin](https://www.baeldung.com/kotlin-data-objects)
