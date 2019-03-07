@@ -40,3 +40,4 @@ kotlin-return-break-continue | [Kotlin return, break, continue Keywords](https:/
 kotlin-interfaces | [Guide to Kotlin Interfaces](https://www.baeldung.com/kotlin-interfaces)
 kotlin-data-objects | [Mapping of Data Objects in Kotlin](https://www.baeldung.com/kotlin-data-objects)
 kotlin-sort | [Guide to Sorting in Kotlin](https://www.baeldung.com/kotlin-sort)
+kotlin-dates | [Working with Dates in Kotlin](https://www.baeldung.com/kotlin-dates)
