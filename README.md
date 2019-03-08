@@ -42,3 +42,4 @@ kotlin-data-objects | [Mapping of Data Objects in Kotlin](https://www.baeldung.c
 kotlin-sort | [Guide to Sorting in Kotlin](https://www.baeldung.com/kotlin-sort)
 kotlin-dates | [Working with Dates in Kotlin](https://www.baeldung.com/kotlin-dates)
 kotlin-contracts | [Kotlin Contracts](https://www.baeldung.com/kotlin-contracts)
+kotlin-operator-overloading | [Operator Overloading in Kotlin](https://www.baeldung.com/kotlin-operator-overloading)
