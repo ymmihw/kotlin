@@ -13,11 +13,10 @@ inline fun <R> myRun(block: () -> R): R {
 }
 
 @ExperimentalContracts
-fun callsInPlace() {
+fun owner() {
 	val i: Int
 	myRun {
 		i = 1 // Without contract initialization is forbidden due to possible re-assignment
 	}
 	println(i) // Without contract variable might be uninitialized
 }
-
