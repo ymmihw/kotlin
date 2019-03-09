@@ -44,3 +44,4 @@ kotlin-dates | [Working with Dates in Kotlin](https://www.baeldung.com/kotlin-da
 kotlin-contracts | [Kotlin Contracts](https://www.baeldung.com/kotlin-contracts)
 kotlin-operator-overloading | [Operator Overloading in Kotlin](https://www.baeldung.com/kotlin-operator-overloading)
 kotlin-inline-classes | [Inline Classes in Kotlin](https://www.baeldung.com/kotlin-inline-classes)
+kotlin-foreach-scope | [Nested forEach in Kotlin](https://www.baeldung.com/kotlin-nested-foreach)
