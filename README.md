@@ -46,3 +46,4 @@ kotlin-operator-overloading | [Operator Overloading in Kotlin](https://www.baeld
 kotlin-inline-classes | [Inline Classes in Kotlin](https://www.baeldung.com/kotlin-inline-classes)
 kotlin-foreach-scope | [Nested forEach in Kotlin](https://www.baeldung.com/kotlin-nested-foreach)
 kotlin-dsl | [Building DSLs in Kotlin](https://www.baeldung.com/kotlin-dsl)
+kotlin-delegation-pattern | [Delegation Pattern in Kotlin](https://www.baeldung.com/kotlin-delegation-pattern)
