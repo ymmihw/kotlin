@@ -129,4 +129,44 @@
    </plugin>
   </plugins>
  </build>
+ <modules>
+  <module>kotlin-dates</module>
+  <module>kotlin-delegated-properties</module>
+  <module>kotlin-delegation-pattern</module>
+  <module>kotlin-destructuring-declarations</module>
+  <module>kotlin-dsl</module>
+  <module>kotlin-enum</module>
+  <module>kotlin-equality</module>
+  <module>kotlin-extension-methods</module>
+  <module>kotlin-filter-collection</module>
+  <module>kotlin-foreach-scope</module>
+  <module>kotlin-generics</module>
+  <module>kotlin-infix-functions</module>
+  <module>kotlin-inline-classes</module>
+  <module>kotlin-inner-classes</module>
+  <module>kotlin-interfaces</module>
+  <module>kotlin-intro</module>
+  <module>kotlin-java-interoperability</module>
+  <module>kotlin-junit5</module>
+  <module>kotlin-jvm-field-annotation</module>
+  <module>kotlin-lambda</module>
+  <module>kotlin-lazy-initialization</module>
+  <module>kotlin-list-to-map</module>
+  <module>kotlin-logging</module>
+  <module>kotlin-mockito</module>
+  <module>kotlin-null-safety</module>
+  <module>kotlin-objects</module>
+  <module>kotlin-operator-overloading</module>
+  <module>kotlin-random-number</module>
+  <module>kotlin-read-file</module>
+  <module>kotlin-reflection</module>
+  <module>kotlin-regular-expressions</module>
+  <module>kotlin-return-break-continue</module>
+  <module>kotlin-sort</module>
+  <module>kotlin-string-template</module>
+  <module>kotlin-tail-recursion</module>
+  <module>kotlin-threads-coroutines</module>
+  <module>kotlin-when</module>
+  <module>kotlin-write-file</module>
+ </modules>
 </project>
