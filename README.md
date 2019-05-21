@@ -47,3 +47,4 @@ kotlin-inline-classes | [Inline Classes in Kotlin](https://www.baeldung.com/kotl
 kotlin-foreach-scope | [Nested forEach in Kotlin](https://www.baeldung.com/kotlin-nested-foreach)
 kotlin-dsl | [Building DSLs in Kotlin](https://www.baeldung.com/kotlin-dsl)
 kotlin-delegation-pattern | [Delegation Pattern in Kotlin](https://www.baeldung.com/kotlin-delegation-pattern)
+kotlin-rxkotlin-intro | [Introduction to RxKotlin](https://www.baeldung.com/rxkotlin)

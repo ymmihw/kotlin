@@ -168,5 +168,6 @@
   <module>kotlin-threads-coroutines</module>
   <module>kotlin-when</module>
   <module>kotlin-write-file</module>
+  <module>kotlin-rxkotlin-intro</module>
  </modules>
 </project>
